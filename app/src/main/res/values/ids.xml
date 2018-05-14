@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="answerEditText" type="id" />
+    <item name="checkBoxName1" type="id" />
+    <item name="checkBoxName2" type="id" />
+    <item name="checkBoxName3" type="id" />
+    <item name="checkBoxName4" type="id" />
+</resources>

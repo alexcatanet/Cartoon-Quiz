@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cartoon Quiz</string>
+    <string name="app_logo">app logo</string>
+    <string name="sofia_picture">sofia picture</string>
+    <string name="question_1">Question 1:</string>
+    <string name="question_text_1">Who’s voice provides Robin Williams in “Aladdin”?"</string>
+    <string name="question_1_a">Abu;</string>
+    <string name="question_1_b">Genie;</string>
+    <string name="question_3_c">Jafar;</string>
+    <string name="question_4_d">Iago</string>
+    <string name="submit_button">Submit</string>
+    <string name="name1_text">Maleficient</string>
+    <string name="name2_text">Merryweather</string>
+    <string name="name3_text">Flora</string>
+    <string name="name4_text">Fauna</string>
+</resources>
