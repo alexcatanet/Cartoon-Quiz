@@ -3,8 +3,7 @@
 # Cartoon Quiz
 
 This Quiz App project was a chance for me to combine and practice everything I've learned in the scholarship program (Android Basics by Google).
-The goal was to create an educational app that quizzes a user about a certain topic at my choice. I tried to be creative as it was possible at that moment.
-
+The goal was to create an educational app that quizzes a user about a certain topic at my choice.
 ## What I've learned:
 
 This project is about combining various ideas and skills I've been practicing throughout the course. They include:
