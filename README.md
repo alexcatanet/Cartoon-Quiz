@@ -2,7 +2,7 @@
 
 # Cartoon Quiz
 
-This Quiz App project was a chance for me to combine and practice everything I've learned in the Nanodegree program (Android Basics by Google Nanodegree Program).
+This Quiz App project was a chance for me to combine and practice everything I've learned in the scholarship program (Android Basics by Google).
 The goal was to create an educational app that quizzes a user about a certain topic at my choice. I tried to be creative as it was possible at that moment.
 
 ## What I've learned:
